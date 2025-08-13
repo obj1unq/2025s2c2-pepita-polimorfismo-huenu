@@ -1,6 +1,6 @@
 # Pepita (parte 2)
 
-Este ejercicio extiende la versión inicial de pepita para que les estudiantes agreguen
+Este ejercicio extiende la versión inicial del ejercicio de pepita para que les estudiantes agreguen
 sus primeras líneas en wollok luego de la explicación del docente
 
 ## Ejercicio 1: Pepón
